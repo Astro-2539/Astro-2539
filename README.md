@@ -2,11 +2,13 @@
 
 ### 这个入的主要作品
 
-![Z Labs Bitmap 12px](https://github.com/Astro-2539/ZLabs-Bitmap) - 一款11*12规格的开源中文像素字体，黑体风格，支持陆、港、日三种字型变体。
+[Z Labs Bitmap 12px](https://github.com/Astro-2539/ZLabs-Bitmap) - 一款11*12规格的开源中文像素字体，黑体风格，支持陆、港、日三种字型变体。
 
-![Z工坊像素圆体 16px](https://github.com/Astro-2539/ZLabs-RoundPix-16px) - 一款15*15规格的开源中文像素字体，圆体风格，目前正在施工中。
+[Z工坊像素圆体 16px](https://github.com/Astro-2539/ZLabs-RoundPix-16px) - 一款15*15规格的开源中文像素字体，圆体风格，目前正在施工中。
 
 ### 在社交平台上找到这个入
+
+*为什么在GitHub上中间是横杠而不是下划线，是因为GitHub的用户名不允许使用下划线（*
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Astro__2539-056DE8
 )](https://www.zhihu.com/people/astro-2539)
@@ -19,3 +21,4 @@
 
 ### 赞赏这个入
 
+[点击进入赞赏页面（施工中）](/donate.md)
