@@ -1,3 +1,3 @@
 # 赞赏Astro_2539
 
-（施工中）
+![赞赏码](/img/donating.png)
