@@ -4,11 +4,11 @@
 
 [**Z Labs Bitmap 12px**](https://github.com/Astro-2539/ZLabs-Bitmap) - 一款 11*12 规格的开源中文像素字体，黑体风格，支持中国大陆、中国香港、日本三种字型变体。
 
-[**Z工坊像素圆体 12px**](https://github.com/Astro-2539/ZLabs-RoundPix-12px) - 一款基于[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)增补的 11*11 规格的开源中文像素字体，圆体风格，目前正在施工中。
+[**Z工坊像素圆体 12px / Z Labs RoundPix 12px**](https://github.com/Astro-2539/ZLabs-RoundPix-12px) - 一款基于[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)增补的 11*11 规格的开源中文像素字体，圆体风格，目前正在施工中。
 
-[**Z工坊像素圆体 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) - 一款 15*15 规格的开源中文像素字体，圆体风格，目前正在施工中。
+[**Z工坊像素圆体 16px / Z Labs RoundPix 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) - 一款 15*15 规格的开源中文像素字体，圆体风格，目前正在施工中。
 
-[**Z工坊金刚黑体 16px**](https://github.com/Astro-2539/ZLabs-DiamondPix-16px) - 一款基于[「UwU 点矩黑」](https://github.com/ChenhaoUwU/UwUMatrix) 修改字形制作的 15*15 规格开源中文像素字体，特大中宫细黑体风格，处于早期开发阶段。
+[**Z工坊金刚黑体 16px / Z Labs DiamondPix 16px**](https://github.com/Astro-2539/ZLabs-DiamondPix-16px) - 一款基于[「UwU 点矩黑」](https://github.com/ChenhaoUwU/UwUMatrix) 修改字形制作的 15*15 规格开源中文像素字体，特大中宫细黑体风格，处于早期开发阶段。
 
 
 
